@@ -4,3 +4,4 @@ Pull requests are always welcome! :)
 
 ## Contents
 1.  [Tree Traversal](traversal/main.go)
+2. [Check two binary trees are identical](identical/main.go)
